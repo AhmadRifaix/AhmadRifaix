@@ -1,16 +1,21 @@
 ## Hi there 👋
+### Hi there! 👋 Welcome to my GitHub Profile
 
-<!--
-**AhmadRifaix/AhmadRifaix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **[Ahmad rifai]**, a passionate developer who loves to build, explore, and innovate with code. 🚀
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Tech Stack & Tools:
+- **Languages:** HTML, JavaScript, Yaml
+- **Frameworks & Libraries:** React, Node.js
+- **Cloud & DevOps:** AWS, Docker, Kubernetes, CI/CD, Github
+- **Databases:** MySql
+
+---
+
+### 📌 About Me:
+- 🔭 I’m a Cloud Enthausias
+- 🌱 I’m learning **DevOps**
+- 🚀 I love working on **Open Source, Web Development, Cloud Computing**
+
+---
