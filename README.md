@@ -22,7 +22,7 @@ Currently a student of **Teknik Komputer dan Jaringan (Computer and Network Engi
 ---
 
 ### 📫 How to reach me:
-- 📧 Email: ahmadrifai@email.com *(ganti dengan email aslimu)*
+- 📧 Email: ahmadrifai@email.com *(palsu)*
 - 🌐 Blog: [ahmadrivaixtjkt1.blogspot.com](https://ahmadrivaixtjkt1.blogspot.com/2025/05/data-tentang-diri-sendiri.html)
 
 ---
